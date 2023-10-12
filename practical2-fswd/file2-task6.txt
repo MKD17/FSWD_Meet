@@ -1,0 +1,8 @@
+This is the content of file2.txt.
+This line is identical in both files.
+These files will be compared for differences.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+Nullam euismod venenatis nulla, eu euismod quam volutpat vel.
+This line is only present in file2.txt.

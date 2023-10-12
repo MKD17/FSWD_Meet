@@ -1,0 +1,14 @@
+{
+    "root": {
+      "Python": {
+        "Libraries": ""
+      },
+      "Web": {
+        "frontend.txt": "",
+        "Backend": {
+          "nodejs.txt": ""
+        }
+      }
+    }
+  }
+  

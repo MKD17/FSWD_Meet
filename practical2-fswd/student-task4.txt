@@ -1,0 +1,6 @@
+MA123 Ayush Naik 8.5
+MA456 Jay Patel 7.0
+MB789 Parmesh Bhat 6.5
+MC012 Hiranj Kotak 9.0
+MA123 abc s1 9.1
+MBA xyz s2 9.8
